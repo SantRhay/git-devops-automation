@@ -7,4 +7,11 @@ Bem-vindo ao repositório! Este é um projeto de exemplo para demonstrar o uso b
 - GitHub
 - Markdown
 
-## Estrutura do Projeto
+
+### Estrutura do Projeto
+
+### Adicionando Conteudo Remotamente
+
+---
+
+## Como Trabalhar com o git
